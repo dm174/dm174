@@ -43,10 +43,9 @@
 
 ### 📃 Мои сертификаты:
 - <a href="https://github.com/dm174/dm174/blob/main/Netology.md">Сертифкаты по Android</a>
-- <a href="https://github.com/dm174/dm174/blob/main/1C.md">Сертифкаты по 1С</a>
+- <a href="https://github.com/dm174/dm174/blob/main/1С.md">Сертифкаты по 1С</a>
  
- 
-<div align="center" style="margin: 40px 0">
+ <div align="center" style="margin: 40px 0">
     <p>
    😄 <img src="https://komarev.com/ghpvc/?username=dm174&label=Profile+views&color=0e75b6&style=flat" alt="dm174" style="display:inline-block;vertical-align: middle;"> 😄
 </p>
