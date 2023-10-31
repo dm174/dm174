@@ -39,7 +39,7 @@
  🤝 Буду рад рассмотреть от вас предложения о сотрудничестве 🤝
 
 <p align='center'>
-      📫 Написать мне: <a href='mailto:ditriy.titov@mail.ru'><img width="70" height="28" src="https://cdn-st1.rtr-vesti.ru/vh/pictures/hd/334/380/8.jpg"/></a>
+      📫 Написать мне: <a href='mailto:ditriy.titov@mail.ru'><img width="70" height="28" src="https://github.com/dm174/dm174/blob/main/mail.jpg"/></a>
  <a href="https://t.me/tdu_74">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
