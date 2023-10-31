@@ -52,6 +52,7 @@
        
    </a>
 </div>
+🤝 Буду рад рассмотреть от вас предложения о сотрудничестве 🤝
 
 <!--
 **dm174/dm174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
