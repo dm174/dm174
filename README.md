@@ -8,8 +8,8 @@
    <a href="https://github-readme-stats.vercel.app/api?username=dm174&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=dm174&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/dm174/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm174&layout=compact"/></a>
+    <img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm174&layout=compact"/> 
 </p>
 
 <p align='center'>
