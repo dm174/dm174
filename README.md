@@ -48,7 +48,7 @@
  
 <div align="center" style="margin: 40px 0">
     <p>
-    <img src="https://komarev.com/ghpvc/?username=dm174&label=Profile%20views&color=0e75b6&style=flat" alt="aleixmt" style="display:inline-block;vertical-align: middle;">
+    <img src="https://komarev.com/ghpvc/?username=dm174&label=Profile%20views&color=0e75b6&style=flat" alt="dm174" style="display:inline-block;vertical-align: middle;">
 </p>
    <a href="https://github.com/dm174/github-profile-views-counter">
        
