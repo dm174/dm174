@@ -4,7 +4,13 @@
 - Мои награды и дипломы, полученные в Нетологии, дополняют мое портфолио и подтверждают мою профессиональную компетентность в области андроид-разработки. Я горжусь своими достижениями и готов активно применять свои навыки и знания в новых проектах.
 
 
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=dm174&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=dm174&show_icons=true&count_private=true"/></a>
+    <img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm174&layout=compact"/> 
+</p>
 
  
 ##  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😊+Полученный+опыт+в+Нетологии)
@@ -31,13 +37,6 @@
 - <a href="https://github.com/dm174/dm174/blob/main/1С.md">Сертификаты по 1С</a>
 
  🤝 Буду рад рассмотреть от вас предложения о сотрудничестве 🤝
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dm174&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=dm174&show_icons=true&count_private=true"/></a>
-    <img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm174&layout=compact"/> 
-</p>
 
 <p align='center'>
     <a href="https://t.me/tdu_74">
