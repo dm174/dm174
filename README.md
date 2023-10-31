@@ -43,7 +43,9 @@
 ### 📃 Мои сертификаты:
 - <a href="https://github.com/dm174/dm174/blob/main/Netology.md">Сертифкаты по Android</a>
 - <a href="https://github.com/dm174/dm174/blob/main/1С.md">Сертифкаты по 1С</a>
- 
+
+ 🤝 Буду рад рассмотреть от вас предложения о сотрудничестве 🤝
+
  <div align="center" style="margin: 40px 0">
     <p>
    😄 <img src="https://komarev.com/ghpvc/?username=dm174&label=Profile+views&color=0e75b6&style=flat" alt="dm174" style="display:inline-block;vertical-align: middle;"> 😄
@@ -52,7 +54,6 @@
        
    </a>
 </div>
-🤝 Буду рад рассмотреть от вас предложения о сотрудничестве 🤝
 
 <!--
 **dm174/dm174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
