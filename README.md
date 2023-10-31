@@ -44,9 +44,10 @@
 ### 📃 Мои сертификаты:
 - <a href="https://github.com/dm174/dm174/blob/main/Netology.md">Посмотреть сертифкаты по Android</a>
 - <a href="https://github.com/dm174/dm174/blob/main/1C.md">Посмотреть сертифкаты по 1С</a>
- - ![](https://komarev.com/ghpvc/?username=dm174)
+ 
+ 
 <div align="center" style="margin: 40px 0">
-   
+  ![](https://komarev.com/ghpvc/?username=dm174)  
    <a href="https://github.com/dm174/github-profile-views-counter">
        
    </a>
