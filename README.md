@@ -39,7 +39,7 @@
  🤝 Буду рад рассмотреть от вас предложения о сотрудничестве 🤝
 
 <p align='center'>
-      📫 Написать мне: <a href='mailto:ditriy.titov@mail.ru'><img width="114px" src="https://gminatrzyciaz.pl/images/email.jpeg"/></a>
+      📫 Написать мне: <a href='mailto:ditriy.titov@mail.ru'><img width="114px" height="30" src="https://gminatrzyciaz.pl/images/email.jpeg"/></a>
  <a href="https://t.me/tdu_74">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
