@@ -42,9 +42,8 @@
     <a href="https://t.me/tdu_74">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
    📫 Написать мне: <a href='mailto:ditriy.titov@mail.ru'>Моя почта</a>
-</p>
+
  <div align="center" style="margin: 40px 0">
     <p>
     <img src="https://komarev.com/ghpvc/?username=dm174&label=Profile+views&color=0e75b6&style=flat" alt="dm174" style="display:inline-block;vertical-align: middle;"> 
