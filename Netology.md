@@ -1,4 +1,5 @@
 ### 📃 Сертификаты и Дипломы:
+<img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/384736/97350e641decd3d62254dfa628376a07.png"/>
 <img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/364564/f0345265005ae3a3afd531c75d8d86dd.png"/>
 <img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/332871/1ef31b3396ed593d6a14fc9694baf555.png?ts=1693282662"/>
 <img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/305198/bd020c980c23e1b7f616b3524679dd33.png?ts=1687187905"/>
